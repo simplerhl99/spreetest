@@ -57,7 +57,7 @@ group :test do
   # Easy installation and use of chromedriver to run system tests with Chrome
   gem 'chromedriver-helper'
 end
-gem 'spree', '~> 3.7.0'
+gem 'spree', '~> 3.7.11'
 gem 'spree_auth_devise', '~> 3.5'
 gem 'spree_gateway', '~> 3.4'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
